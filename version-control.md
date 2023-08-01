@@ -37,4 +37,5 @@ The `.gitignore` file specifies which files and directories are ignored by git (
 ```
 
 ### 3. Be careful when pushing to GitHub
-Whenever you push a set of changes to your remote repo (GitHub), take a quick look to check whether no personal/sensitive data is accidentally included.
+Whenever you push a set of changes to your remote repo (GitHub), take a quick look to check whether no personal/sensitive data is accidentally included. 
+Be careful with secrets (e.g., passwords, API keys, OAuth IDs), personally identifiable information (e.g., email addresses), and internal server names.
