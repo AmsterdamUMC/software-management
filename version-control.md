@@ -14,6 +14,11 @@ Please keep the following in mind:
 
 For example, if you create a repository for a software application called "Epic EEG Tool", then name the repository `epic-EEG-tool`. Under the Amsterdam UMC organization, the URL to your repository would then look like this: `https://github.com/AmsterdamUMC/epic-EEG-tool`
 
+## What not to put on GitGub
+The guidelines in these pages concern the publication of code written by Amsterdam UMC employees, so as to share this code with the world. Therefore, only put code on the Amsterdam UMC GitHub that was written as part of your employment for Amsterdam UMC (or AMC/VUmc). Moreover, do not put on GitHub or other public version control platforms any code:
+* **Of which the Amsterdam UMC has no intellectual property rights.** Of course, your repository may contain libraries, components, image files, and source files that originated partly or entirely from outside the Amsterdam UMC. But their license should be compatible with [the license of your repository](choosing-license.md).
+* **As a private repository.** Cloud-based version control is not highly secure. Hence, if you want a private repository for development of your code (as opposed to sharing your code with the world) you should not use the Amsterdam UMC GitHub if security is important. Either store the repository on a share (_afdelingsschijf_) or request access to the Amsterdam UMC Gitlab, which is hosted on the Amsterdam UMC intranet (ask the ICT service desk). 
+
 ## How to prevent accidentally committing personal/sensitive data to the repository?
 To be sure that no personal or sensitive data ends up in your repository, we recommend setting up multiple lines of defense, as outlined below.
 
@@ -40,8 +45,3 @@ The `.gitignore` file specifies which files and directories are ignored by git (
 Whenever you push a set of changes to your remote repo (GitHub), take a quick look to check whether no personal/sensitive data is accidentally included. Be careful with secrets (e.g., passwords, API keys, OAuth IDs), personally identifiable information (e.g., email addresses), and internal server names. 
 
 When publishing a private repository as a public repository, just removing sensitive data from your files does not suffice; after all, the removed data is still in the version control system. Therefore, create a new local repository, copy the files you want to publish to the new repository, and push it to GitHub. If this is not acceptable because you really must retain the version history but without the sensitive data, [follow these guidelines](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository).
-
-### 4. What not to put on GitGub
-The guidelines in these pages concern the publication of code written by Amsterdam UMC employees, so as to share this code with the world. Therefore, only put code on the Amsterdam UMC GitHub that was written as part of your employment for Amsterdam UMC (or AMC/VUmc). Moreover, do not put on GitHub or other public version control platforms any code:
-* **Of which the Amsterdam UMC has no intellectual property rights.** Of course, your repository may contain libraries, components, image files, and source files that originated partly or entirely from outside the Amsterdam UMC. But their license should be compatible with [the license of your repository](choosing-license.md).
-* **As a private repository.** Cloud-based version control is not highly secure. Hence, if you want a private repository for development of your code (as opposed to sharing your code with the world) you should not use the Amsterdam UMC GitHub if security is important. Either store the repository on a share (_afdelingsschijf_) or request access to the Amsterdam UMC Gitlab, which is hosted on the Amsterdam UMC intranet (ask the ICT service desk). 
