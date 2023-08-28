@@ -12,7 +12,7 @@ Summary:
 
 * **[Managing GitHub teams](managing-github-teams.md).** How are teams organized in the Amsterdam UMC GitHub organization?
   
-* **[Choosing a license](choose-license.md).** How to choose the right license for your software and data.
+* **[Choosing a license](choosing-license.md).** How to choose the right license for your software and data.
   
 
 
