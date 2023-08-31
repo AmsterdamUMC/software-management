@@ -6,12 +6,11 @@ Code written as part of your employment contract with Amsterdam UMC is the intel
 In any case, inform your supervisor of your intents before open sourcing.
 
 ## Software licenses
-There are many kinds of software licenses, which makes the choice difficult. If your code is part of a project or programme that prescribes a particular license, then it is easy: use that particular license. Otherwise, [this tool can help you choose](https://choosealicense.com).
+There are many kinds of software licenses, which makes the choice difficult. If your code is part of a project or programme that prescribes a particular license, then it is easy: use that particular license. Otherwise, this [software license chooser](https://choosealicense.com) can help you choose.
 
 Once you have chosen a license, make your that your code is labelled with it. 
 [GitHub makes it easy to attach a license to your repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
 ## Data licenses
-Software licenses are not ideal for data. 
+Software licenses are not ideal for data. Amsterdam UMC research recommends using a Creative Commons license for data. To choose the appropriate Creative Commons license use this [CC license chooser](https://chooser-beta.creativecommons.org/). Read [the Amsterdam UMC guidelines for sharing data](https://www.amsterdamumc.org/en/research/research-roadmap/sharing-data.htm) to learn more on how to share your research data.
 
-_under construction_
