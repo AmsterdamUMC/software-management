@@ -1,4 +1,4 @@
-# Version control
+# Sharing source code with version control
 Below, you can learn how to get started with version control, as well as find guides and guidelines for typical tasks undertaken by Amsterdam UMC researchers.
 
 ## Getting started
