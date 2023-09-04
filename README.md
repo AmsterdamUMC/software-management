@@ -12,6 +12,6 @@ Summary:
   
 * **[Choosing a license](choosing-license.md).** How to choose the right license for your software and data.
 
-* **[Publicizing you projects](projects.md).** How to publicize you projects in the Research Software Directory?
+* **[Publicizing your projects](projects.md).** How to publicize your projects in the Research Software Directory?
 
 
