@@ -6,13 +6,12 @@ Summary:
 * If your code is part of a project, describe your project on [Research Software Directory](https://research-software-directory.org/organisations/amsterdam-university-medical-centers?page=units) and link to your code on Amsterdam UMC GitHub.
 
 ## Overview of guides
-* **[Publicizing you projects](projects.md).** How to publicize you projects in the Research Software Directory?
-
 * **[Sharing source code with version control](version-control.md).** How to share your source code using a version control system? How to keep track of changes to your software? How to avoid data breaches? 
 
 * **[Managing GitHub teams](managing-github-teams.md).** How are teams organized in the Amsterdam UMC GitHub organization?
   
 * **[Choosing a license](choosing-license.md).** How to choose the right license for your software and data.
-  
+
+* **[Publicizing you projects](projects.md).** How to publicize you projects in the Research Software Directory?
 
 
