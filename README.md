@@ -8,7 +8,7 @@ Summary:
 ## Overview of guides
 * **[Publicizing you projects](projects.md).** How to publicize you projects in the Research Software Directory?
 
-* **[Version control](version-control.md).** How to keep track of changes to your software? How to avoid data breaches? Key terms: git, commits, pull requests
+* **[Sharing source code with version control](version-control.md).** How to share your source code using a version control system? How to keep track of changes to your software? How to avoid data breaches? 
 
 * **[Managing GitHub teams](managing-github-teams.md).** How are teams organized in the Amsterdam UMC GitHub organization?
   
