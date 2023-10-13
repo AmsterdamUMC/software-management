@@ -10,12 +10,12 @@ Please host your repository under the [Amsterdam UMC organization on GitHub](htt
 ## How to name your code repository?
 Please keep the following in mind:
 * Only use lower-case characters for words; abbreviations can be in UPPER-CASE
-* It is not required to add Amsterdam UMC to your repository name
+* It is not required to add Amsterdam UMC or your team name to your repository name
 
-For example, if you create a repository for a software application called "Epic EEG Tool", then name the repository `epic-EEG-tool`. Under the Amsterdam UMC organization, the URL to your repository would then look like this: `https://github.com/AmsterdamUMC/epic-EEG-tool`
+For example, if you create a repository for a software application called "Epic EEG Tool", then name the repository `epic-EEG-tool`. Under the Amsterdam UMC organization, the URL to your repository would then look like this: `https://github.com/AmsterdamUMC/epic-EEG-tool`. Not that the team name is not part of the URL, since teams are not visible for non-Amsterdam UMC users. You may include the team name in the repository name, but it is not required. If the epic-EEG-tool were from department DptX, you would still get `https://github.com/AmsterdamUMC/epic-EEG-tool` us URL. This is ok: `https://github.com/AmsterdamUMC/dptx-epic-EEG-tool`. These two are allowed but are superfluous and therefore not recommended: `https://github.com/AmsterdamUMC/AmsterdamUMC-epic-EEG-tool` and`https://github.com/AmsterdamUMC/AmsterdamUMC-dptx-epic-EEG-tool`
 
 ## What not to put on GitGub
-The guidelines in these pages concern the publication of code written by Amsterdam UMC employees, so as to share this code with the world. Therefore, only put code on the Amsterdam UMC GitHub that was written as part of your employment for Amsterdam UMC (or AMC/VUmc). Moreover, do not put on GitHub or other public version control platforms any code:
+The guidelines in these pages concern the publication of code written by Amsterdam UMC employees, so as to share this code with the world. Therefore, use the Amsterdam UMC GitHub for code that was written as part of your employment for Amsterdam UMC (or AMC/VUmc). Moreover, do not put on GitHub or other public version control platforms any code:
 * **Of which the Amsterdam UMC has no intellectual property rights.** Of course, your repository may contain libraries, components, image files, and source files that originated partly or entirely from outside the Amsterdam UMC. But their license should be compatible with [the license of your repository](choosing-license.md).
 * **As a private repository.** Cloud-based version control is not highly secure. Hence, if you want a private repository for development of your code (as opposed to sharing your code with the world) you should not use the Amsterdam UMC GitHub if security is important. Either store the repository on a share (_afdelingsschijf_) or request access to the Amsterdam UMC Gitlab, which is hosted on the Amsterdam UMC intranet (ask the ICT service desk). 
 
